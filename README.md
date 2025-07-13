@@ -1,2 +1,2 @@
 # Sadat-Arimyao-
-Je suis développeur 
+Je suis développeur web et mobile 
